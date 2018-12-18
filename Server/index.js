@@ -2,7 +2,7 @@
 var express = require('express'),
     app = express(),
     //setting port as 3000 
-    port = process.env.PORT || 3000,
+    port = process.env.PORT || 3004,
     //bodyParser for inputing to body
     bodyParser = require('body-parser');
     
